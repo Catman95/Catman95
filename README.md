@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @Catman95!
 - 🌍 I’m interested in Web development
 - 🎓 I’m currently learning React
-- 🍀 I’m currently working on a cool social network. Should be fun when it goes live.
+- 🍀 I’m working on a cool social network. Should be fun when it goes live.
 - 💌 How to reach me: aleksandar.stankovic95@protonmail.com
 
 <!---
